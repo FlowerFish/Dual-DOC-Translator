@@ -4,3 +4,4 @@ streamlit
 numpy
 base64
 PIL
+googletrans
