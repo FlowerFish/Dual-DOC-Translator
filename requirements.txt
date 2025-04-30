@@ -1,0 +1,6 @@
+pandas
+fitz
+streamlit
+numpy
+base64
+PIL
