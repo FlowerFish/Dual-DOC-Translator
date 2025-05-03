@@ -21,7 +21,7 @@ def main():
     if 'source_lang' not in st.session_state:
         st.session_state.source_lang = 'auto'
     if 'font_size' not in st.session_state:
-        st.session_state.font_size = 16
+        st.session_state.font_size = 21
     if 'translate_trigger' not in st.session_state:
         st.session_state.translate_trigger = False
 
